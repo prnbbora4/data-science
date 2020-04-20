@@ -1,3 +1,3 @@
 # data-science
 
-hello world
+hello alias
